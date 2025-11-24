@@ -6,7 +6,7 @@ JavaScript
 p5.js (biblioteca para animações em 2D)        
 
 # Como jogar     
-1 - Baixe os arquivos do projeto                  
+1 - Baixe o arquivo zip do projeto e extraia-o                              
 2 - Abra o projeto no VSCode e use a extensão live server para rodar o index.html. Ou copie e cole o código do sketch.js diretamente no editor online (https://editor.p5js.org/)             
 3 - Use as setas esquerda e direita para movimentar o jogador.               
 4 - Evite os asteroides que caem do topo da tela.                 
