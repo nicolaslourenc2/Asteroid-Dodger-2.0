@@ -13,3 +13,7 @@ p5.js (biblioteca para animações em 2D)
 5 - A cada 10 segundos o nivel aumenta em 1.               
 6 - A cada 1 nivel, a velocidade dos asteroides aumenta, tornando o jogo mais desafiador.                
 7 - O jogo termina se a vida do jogador chegar a 0.                
+
+# Participantes e link do video       
+Nicolas Lourenço
+https://youtu.be/4JajorLZr8U
