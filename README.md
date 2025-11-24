@@ -15,5 +15,5 @@ p5.js (biblioteca para animações em 2D)
 7 - O jogo termina se a vida do jogador chegar a 0.                
 
 # Participantes e link do video       
-Nicolas Lourenço
-https://youtu.be/4JajorLZr8U
+Nicolas Lourenço           
+https://youtu.be/4JajorLZr8U            
